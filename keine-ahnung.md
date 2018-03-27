@@ -1,38 +1,40 @@
-\# Geistesblitze 
+\# Geistesblitze
 
-\#\# Eingangskorb 
 
-\#\#\# Dennis sagt… 
 
-Link: \[dirico.io/lp/redaktionsplan-social-media/\]   
+nrttntnttrnt
 
-\#\#\# dirico.io – Redaktionsplan Social Media 
+\#\# Eingangskorb
 
-Link: \[dirico.io/lp/redaktionsplan-social-media/\]   
+\#\#\# Dennis sagt…
 
-\#\#\# Word to Markdown Converter 
+Link: \[dirico.io/lp/redaktionsplan-social-media/\]
 
-Link: \[word-to-markdown.herokuapp.com/\]   
+\#\#\# dirico.io – Redaktionsplan Social Media
 
-\#\#\# Convert a Word Document into MD 
+Link: \[dirico.io/lp/redaktionsplan-social-media/\]
 
-Link: \[gist.github.com/vzvenyach/7278543\]   
+\#\#\# Word to Markdown Converter
 
-\#\#\# Convert MS Word to Markdown Text - DocumentAlchemy - Demonstration Form 
+Link: \[word-to-markdown.herokuapp.com/\]
 
-Link: \[documentalchemy.com/demo/docx2md\]   
+\#\#\# Convert a Word Document into MD
 
-\#\#\# Writage - Markdown plugin for Microsoft Word 
+Link: \[gist.github.com/vzvenyach/7278543\]
 
-Link: \[writage.com/\]   
+\#\#\# Convert MS Word to Markdown Text - DocumentAlchemy - Demonstration Form
 
-\#\#\# How to set default apps on Mac \| iMore 
+Link: \[documentalchemy.com/demo/docx2md\]
 
-Link: \[imore.com/how-set-mac-app-default-when-opening-file\]   
+\#\#\# Writage - Markdown plugin for Microsoft Word
 
-\#\#\# Amazon Transcribe 
+Link: \[writage.com/\]
 
-\[ipfs.io/ipfs/QmZwkh5DcC3MZ4q9SX1QtcNG7HwKNrnACBaX1hfxfsJUU8/podcast-transcription-amazon-transcribe/\]   
+\#\#\# How to set default apps on Mac \| iMore
 
-  
+Link: \[imore.com/how-set-mac-app-default-when-opening-file\]
+
+\#\#\# Amazon Transcribe
+
+\[ipfs.io/ipfs/QmZwkh5DcC3MZ4q9SX1QtcNG7HwKNrnACBaX1hfxfsJUU8/podcast-transcription-amazon-transcribe/\]
 
